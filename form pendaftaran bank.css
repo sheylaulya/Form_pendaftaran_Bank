@@ -1,0 +1,108 @@
+html{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.judul{
+    margin-top: -20px;
+    margin-left: 60px;
+    display: flex;
+}
+.text2{
+    padding-left: 49%;
+}
+.logo{
+    display: flex;
+}
+.logo2 {
+    padding-left: 45%;
+}
+.text3 {
+    font-size: 18px;
+}
+.CIF{
+    display: flex;
+}
+.form1{
+    padding-left: 40%;
+    padding-top: 15px;
+}
+.text4 {
+    margin-top: -27px;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+h4{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.gender{
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.ICBA {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.passport{
+    margin-top: 20px;
+}
+.passport{
+    margin-top: 20px;
+}
+.sexuality{
+    margin-top: 20px;
+}
+.Race{
+    margin-top: 20px;
+}
+.religion{
+    margin-top: 20px;
+}
+.residencestatus{
+    margin-top: 20px;
+}
+.academic {
+    margin-top: 20px;
+}
+.maritalstatus {
+    margin-top: 20px;
+}
+.residential {
+    margin-top: 20px;
+}
+.currentstatus{
+    display: flex;
+}
+.postcode{
+    margin-top: 20px;
+}
+.corespondenceadds{
+    margin-top: 20px;
+}
+.currentstats {
+    margin-top: 20px;
+}
+.residencetype{
+    margin-top: 20px;
+}
+.residencetype p{
+    margin-bottom: -5px;
+}
+.NoHP{
+    margin-top: 20px;
+}
+.email {
+    margin-top: 20px;
+}
+.bahasa{
+    margin-top: 20px;
+}
+.bahasa table{
+    margin-top: -5px;
+}
